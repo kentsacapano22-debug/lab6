@@ -136,7 +136,7 @@ class RecipeScreen extends StatelessWidget {
                               style: TextStyle(color: Colors.white),
                             ),
                           ),
-                          title: Text('Juan Dela Cruz'),
+                          title: Text('Erika Cordova'),
                           subtitle: Text('Home Chef'),
                           trailing: Icon(Icons.chevron_right),
                         ),
